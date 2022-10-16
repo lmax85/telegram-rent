@@ -3,6 +3,8 @@
 --- 
 This is project for parsing telegram channels and groups for rent ads and generate a website with this ads, for better search.
 
+https://telegram-rent.com
+
 ## Getting Started
 
 ### Prerequisites
@@ -51,8 +53,7 @@ telegram_groups
 |---|---|---|---|---|
 
 telegram_authors
-| id | username | type | first_name | last_name | 
-title | avatar_path | description
+| id | username | type | first_name | last_name | title | avatar_path | description
 |---|---|---|---|---|---|---|---|
 
 telegram_messages

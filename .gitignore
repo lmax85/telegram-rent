@@ -1,0 +1,9 @@
+/database
+/media
+/logs
+/certbot
+/.idea
+/.vscode
+*.pem
+id_rsa
+id_rsa.pub

@@ -1,0 +1,10 @@
+# Ташкент
+# */45 * * * * python /app/history.py --channel relocationuzrent --parse-limit-hours 1 --parse-size 5 --country Узбекистан --city Ташкент >> /var/log/cron/estate.log 2>&1
+# */45 * * * * python /app/history.py --channel apartmentrenttashkent --parse-limit-hours 1 --parse-size 5 --country Узбекистан --city Ташкент >> /var/log/cron/estate.log 2>&1
+
+# Ереван
+# */45 * * * * python /app/history.py --channel houseyerevan --parse-limit-hours 1 --parse-size 50 --country Армения --city Ереван >> /var/log/cron/estate.log 2>&1
+
+# Тбилиси
+# */45 * * * * python /app/history.py --channel kvartiry_v_tbilisi --parse-limit-hours 1 --parse-size 50 --country Грузия --city Тбилиси >> /var/log/cron/estate.log 2>&1
+

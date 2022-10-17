@@ -36,7 +36,7 @@ For `histroy.py` script required next arguments:
 
 ### Frontend
 
-After parsing you can see parsed ads on frontend: http://localhost:7000
+After parsing you can see parsed ads on frontend: http://localhost:7100
 
 ## DB scheme
 
